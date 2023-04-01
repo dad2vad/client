@@ -1214,12 +1214,10 @@
     "@types/aws-lambda" "^8.10.89"
     "@types/express" "^4.17.13"
 
-"@honeybadger-io/react@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@honeybadger-io/react/-/react-2.1.0.tgz#cd50020532aa475131597843de61ec426576adfe"
-  integrity sha512-Rt1gt0d3B5Ly5p3+EU9ugt9HSOQQc+TzHoKcF8bIqWBWQpWWeV8UJeIgeqNmcv//X9G2rg9Z5D04WBLAZ4o7fw==
-  dependencies:
-    "@honeybadger-io/js" "^4.0.3"
+"@honeybadger-io/react@^5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@honeybadger-io/react/-/react-5.2.0.tgz#ecf26f4d84bced7e3488d9943e823bd8a5833e81"
+  integrity sha512-sDjSxGRlpXe1gB8aRIq9Lku3YwVqloiMRutp6b5V/12WRIjnYRXTg7nYjE+S6Gy0ddCAW6Du0pAB0V0jezv1yg==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
